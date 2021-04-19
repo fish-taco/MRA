@@ -1,0 +1,14 @@
+{
+  "name": "@leonelgalan/funnel-chart",
+  "main": "d6ca2cb73c56fed9@454.js",
+  "version": "454.0.0",
+  "homepage": "https://observablehq.com/@leonelgalan/funnel-chart",
+  "author": {
+    "name": "Leonel Galán",
+    "url": "https://observablehq.com/@leonelgalan"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
