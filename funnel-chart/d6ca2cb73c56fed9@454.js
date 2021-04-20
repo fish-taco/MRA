@@ -180,12 +180,12 @@ d3.area()
 )});
   main.variable(observer("data")).define("data", function(){return(
 [
-  {step: 1, value: 1289, label: 'Surveys'},
-  {step: 2, value: 768, label: 'Coupons'},
-  {step: 3, value: 598, label: 'Emails'},
-  {step: 4, value: 320, label: 'Open'},
-  {step: 5, value: 256, label: 'Click'},
-  {step: 6, value: 67, label: 'Redeemed'},
+  {step: 1, value: 50130, label: 'All M Users'},
+  {step: 2, value: 6724, label: 'Clicked Upgrade'},
+  {step: 3, value: 6385, label: 'Viewed Pricing'},
+  {step: 4, value: 1258, label: 'Payment Details'},
+  {step: 5, value: 301, label: 'Subscribers'},
+  {step: 6, value: 301, label: 'Subscribed Teams'},
 ]
 )});
   main.variable(observer("d3")).define("d3", ["require"], function(require){return(
