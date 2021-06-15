@@ -1,3 +1,8 @@
+## Conversion funnel for part 4
+![Conversion funnel](funnel-chart/m_conv_funnel.png)
+
+## Jupyter notebook for data exploration
+
 ```python
 from tabulate import tabulate
 import pandas as pd, csv, sqlite3
